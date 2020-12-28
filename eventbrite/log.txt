@@ -1,0 +1,225 @@
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Android
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV13, Brand: Sony, Model: BDV13
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Nintendo DSi, Brand: Nintendo, Model: DSi
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF F90M, Brand: LYF, Model: F90M
+2020-12-28 16:56:02 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV14, Brand: Sony, Model: BDV14
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LG Web0S SmartTV, Brand: LG, Model: Web0S SmartTV
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Sony BDV11, Brand: Sony, Model: BDV11
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Nintendo DSi, Brand: Nintendo, Model: DSi
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF LF-2403N, Brand: LYF, Model: LF-2403N
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: LYF F90M, Brand: LYF, Model: F90M
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:03 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Applebot
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Applebot
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Other
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: SMTBot
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: WebKit Nightly
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: PhantomJS
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Robot
+2020-12-28 16:56:04 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedDeviceType] Family: Other, Brand: None, Model: None
+2020-12-28 16:56:05 [scrapy_user_agents.user_agent_picker] WARNING: [UnsupportedBrowserType] Family: Zune
+2020-12-28 16:56:10 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/trap-vs-reggae-new-years-eve-weekend-tickets-123572375301?aff=ebdssbdestsearch
+2020-12-28 16:56:13 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2020-ice-lights-the-winter-village-at-cameron-run-tickets-121551476739?aff=ebdssbdestsearch
+2020-12-28 16:56:16 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-m-lounge-an-intimate-vip-experience-tickets-131045513659?aff=ebdssbdestsearch
+2020-12-28 16:56:22 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/kaskade-new-years-eve-tickets-132182231613?aff=ebdssbdestsearch
+2020-12-28 16:56:23 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/memory-lane-train-christmas-lite-show-tickets-126465887875?aff=ebdssbdestsearch
+2020-12-28 16:56:25 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/reggae-rise-up-florida-festival-2021-tickets-63133993474?aff=ebdssbdestsearch
+2020-12-28 16:56:25 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nyelectric-w-dallas-rooftop-new-years-eve-party-2021-tickets-96994522227?aff=ebdssbdestsearch
+2020-12-28 16:56:29 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2021-w-hotel-miami-new-years-eve-party-kiss-it-good-bye-tickets-128050194579?aff=ebdssbdestsearch
+2020-12-28 16:56:32 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/day-lit-atl-tickets-64709055527?aff=ebdssbdestsearch
+2020-12-28 16:56:33 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/severs-holiday-lights-tickets-115766307141?aff=ebdssbdestsearch
+2020-12-28 16:56:34 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/night-of-a-million-lights-tue-dec-29-tickets-123252945879?aff=ebdssbdestsearch
+2020-12-28 16:56:37 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/black-excellence-the-ultimate-upscale-new-years-eve-celebration-tickets-130604967975?aff=ebdssbdestsearch
+2020-12-28 16:56:39 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-beach-bash-at-whiskey-joes-tickets-131633763129?aff=ebdssbdestsearch
+2020-12-28 16:56:41 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/bottle-wars-sundays-tickets-125612601673?aff=ebdssbdestsearch
+2020-12-28 16:56:43 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/true-years-eve-tickets-127746227405?aff=ebdssbdestsearch
+2020-12-28 16:56:44 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/share-the-love-holidays-in-your-car-del-mar-presented-by-subaru-tickets-125511350829?aff=ebdssbdestsearch
+2020-12-28 16:56:44 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/brunch-on-saturday-tickets-105963967078?aff=ebdssbdestsearch
+2020-12-28 16:56:45 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-rooftop-party-tickets-130323407821?aff=ebdssbdestsearch
+2020-12-28 16:56:51 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/midnight-at-6-fireworks-a-walk-through-symphony-of-lights-tickets-128172255667?aff=ebdssbdestsearch
+2020-12-28 16:56:52 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/opium-saturdays-by-atlafterdark-tickets-111736262168?aff=ebdssbdestsearch
+2020-12-28 16:56:52 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/rap-up-hip-hop-uptempo-vibes-party-anthems-fridays-the-short-stop-tickets-55088123059?aff=ebdssbdestsearch
+2020-12-28 16:56:53 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-day-turn-up-with-free-hennessy-tickets-131286953813?aff=ebdssbdestsearch
+2020-12-28 16:56:55 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-bar-2200-free-entry-with-rsvp-champagne-toast-12am-tickets-126019408443?aff=ebdssbdestsearch
+2020-12-28 16:56:58 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/gorgon-city-tuesday-december-29th-2020-district-atlanta-tickets-131206424949?aff=ebdssbdestsearch
+2020-12-28 16:57:00 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-day-artbat-tickets-133411584641?aff=ebdssbdestsearch
+2020-12-28 16:57:01 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-weekend-dj-envy-celebrity-day-party-at-suite-lounge-atlanta-tickets-129322927357?aff=ebdssbdestsearch
+2020-12-28 16:57:01 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/dwntwn-movie-nights-20202021-tickets-126072675767?aff=ebdssbdestsearch
+2020-12-28 16:57:02 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/one-secret-island-w-blondish-sabo-goldcap-davi-birds-of-mind-tickets-134002165083?aff=ebdssbdestsearch
+2020-12-28 16:57:04 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/tip-drill-comedy-show-tickets-131548877233?aff=ebdssbdestsearch
+2020-12-28 16:57:08 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/atlanta-new-years-eve-party-countdown-nyelectric-2021-tickets-128047564713?aff=ebdssbdestsearch
+2020-12-28 16:57:09 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/the-penthouse-at-the-wharf-nye-tickets-133501419339?aff=ebdssbdestsearch
+2020-12-28 16:57:11 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-rooftop-pooldeck-party-with-all-night-open-bar-tickets-131868098031?aff=ebdssbdestsearch
+2020-12-28 16:57:11 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-2020-atlanta-vs-everybody-dec-31st-jan-2nd-tickets-131959377049?aff=ebdssbdestsearch
+2020-12-28 16:57:12 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-day-veuve-clicquot-picnic-jan-1st-at-the-wharf-miami-tickets-132959077179?aff=ebdssbdestsearch
+2020-12-28 16:57:21 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/savage-brunch-presented-by-savage-entertainment-tickets-125012027339?aff=ebdssbdestsearch
+2020-12-28 16:57:21 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/rod-wave-tickets-130175613765?aff=ebdssbdestsearch
+2020-12-28 16:57:21 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/speakeasy-fort-lauderdale-new-years-eve-party-cruise-2021-tickets-96998500125?aff=ebdssbdestsearch
+2020-12-28 16:57:21 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/dutty-up-100-soca-jouvert-miami-tickets-128854648723?aff=ebdssbdestsearch
+2020-12-28 16:57:21 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/rhythm-brunch-tickets-125952291695?aff=ebdssbdestsearch
+2020-12-28 16:57:26 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-service-tickets-128077048901?aff=ebdssbdestsearch
+2020-12-28 16:57:27 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/let-it-shine-drive-thru-light-show-dec-28-tickets-123896781609?aff=ebdssbdestsearch
+2020-12-28 16:57:30 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/10th-annual-new-years-eve-2021-champagne-life-royalty-masquerade-casino-tickets-89853392917?aff=ebdssbdestsearch
+2020-12-28 16:57:31 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nautilus-new-years-eve-2021-in-miami-tickets-133030675331?aff=ebdssbdestsearch
+2020-12-28 16:57:31 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/fcc-new-years-eve-celebration-2020-tickets-132666267377?aff=ebdssbdestsearch
+2020-12-28 16:57:36 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-beginnings-nye-2021-nylo-hotel-plano-tickets-127658904219?aff=ebdssbdestsearch
+2020-12-28 16:57:36 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/atlantas-1-friday-night-party-tickets-90373604885?aff=ebdssbdestsearch
+2020-12-28 16:57:36 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/atlantas-biggest-new-years-eve-party-tickets-131233800831?aff=ebdssbdestsearch
+2020-12-28 16:57:39 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/milk-honey-trapandbrunch-day-party-tickets-108870608922?aff=ebdssbdestsearch
+2020-12-28 16:57:39 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/culture-indoor-outdoor-rooftop-brunch-day-party-tickets-73027877347?aff=ebdssbdestsearch
+2020-12-28 16:57:41 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/lightopia-an-illuminated-journey-tickets-126575086491?aff=ebdssbdestsearch
+2020-12-28 16:57:43 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/bedouin-eduardo-castillo-space-park-tickets-133860928641?aff=ebdssbdestsearch
+2020-12-28 16:57:44 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/thursday-december-31st-1100pm-new-years-eve-indoor-service-tickets-133387287969?aff=ebdssbdestsearch
+2020-12-28 16:57:47 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nero-dj-set-at-itll-do-club-tickets-127029700253?aff=ebdssbdestsearch
+2020-12-28 16:57:47 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/trey-songs-and-mr-ruggs-nye-oak-atlanta-tickets-132192907545?aff=ebdssbdestsearch
+2020-12-28 16:57:50 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/bonniexclyde-nye-on-the-terrace-treehouse-ft-myers-tickets-130303401983?aff=ebdssbdestsearch
+2020-12-28 16:57:54 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-comedy-jamchicago-invades-houston-round2-tickets-123502371919?aff=ebdssbdestsearch
+2020-12-28 16:57:54 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/come-chill-rb-brunch-day-party-series-tickets-116681440329?aff=ebdssbdestsearch
+2020-12-28 16:57:56 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/house-party-the-drive-in-new-years-eve-bash-2020-tickets-130698443563?aff=ebdssbdestsearch
+2020-12-28 16:57:59 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/ambush-comedy-on-a-brooklyn-rooftop-tickets-53365609976?aff=ebdssbdestsearch
+2020-12-28 16:58:01 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-bar-crawl-st-pete-tickets-98326777037?aff=ebdssbdestsearch
+2020-12-28 16:58:02 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-caribbean-therapy-tickets-126686874853?aff=ebdssbdestsearch
+2020-12-28 16:58:04 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-day-brunch-day-party-traffik-tickets-130323899291?aff=ebdssbdestsearch
+2020-12-28 16:58:06 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/whats-god-saying-in-2021-new-years-eve-service-with-jennifer-leclaire-tickets-115068912214?aff=ebdssbdestsearch
+2020-12-28 16:58:08 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-2021-mask-erade-party-at-legacy-hall-tickets-129598052263?aff=ebdssbdestsearch
+2020-12-28 16:58:09 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/cancelled-new-years-eve-fireworks-cruise-aboard-the-timeless-tickets-97861178419?aff=ebdssbdestsearch
+2020-12-28 16:58:10 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2021-edgy-tim-mlk-underclassman-showcase-tickets-125978139005?aff=ebdssbdestsearch
+2020-12-28 16:58:11 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/xavier-wulf-live-in-dallas-tickets-127574539883?aff=ebdssbdestsearch
+2020-12-28 16:58:16 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nashville-new-years-eve-at-nashville-underground-tickets-130740750103?aff=ebdssbdestsearch
+2020-12-28 16:58:17 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/dream-with-god-enter-2021-with-a-life-vision-for-a-better-future-webinar-tickets-131691359401?aff=ebdssbdestsearch
+2020-12-28 16:58:19 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-for-the-city-tickets-131142216901?aff=ebdssbdestsearch
+2020-12-28 16:58:20 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/koziars-christmas-village-tap-here-for-passes-pay-on-arrival-tickets-130310376845?aff=ebdssbdestsearch
+2020-12-28 16:58:25 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-dinner-cruise-tickets-88149494511?aff=ebdssbdestsearch
+2020-12-28 16:58:25 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-downtown-tickets-129790361465?aff=ebdssbdestsearch
+2020-12-28 16:58:27 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-rooftop-party-tickets-131780654485?aff=ebdssbdestsearch
+2020-12-28 16:58:27 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/winter-wonderland-a-socially-distanced-holiday-bar-tickets-130608514583?aff=ebdssbdestsearch
+2020-12-28 16:58:29 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/mulatto-live-in-concert-tickets-131993204227?aff=ebdssbdestsearch
+2020-12-28 16:58:30 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/apex-champagne-campaign-nye-atl-2021-tickets-127947732111?aff=ebdssbdestsearch
+2020-12-28 16:58:33 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/aaron-lewis-acoustic-tickets-131375677187?aff=ebdssbdestsearch
+2020-12-28 16:58:35 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-celebration-2021-tickets-131420326735?aff=ebdssbdestsearch
+2020-12-28 16:58:36 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/wine-down-wednesdays-at-ember-unlimited-wine-sangria-more-tickets-61945592936?aff=ebdssbdestsearch
+2020-12-28 16:58:37 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/finally-2021-new-years-eve-at-the-wharf-miami-tickets-129376828577?aff=ebdssbdestsearch
+2020-12-28 16:58:38 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/casa-marinas-new-years-eve-party-tickets-131249754549?aff=ebdssbdestsearch
+2020-12-28 16:58:43 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/moved-to-w-hotel-gatsbys-penthouse-dallasnightlifecom-new-years-2021-tickets-96969814325?aff=ebdssbdestsearch
+2020-12-28 16:58:43 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-w-maceo-plex-tickets-131476434555?aff=ebdssbdestsearch
+2020-12-28 16:58:48 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-weekend-dj-envy-celebrity-brunch-day-party-at-suite-lounge-atl-tickets-129336654415?aff=ebdssbdestsearch
+2020-12-28 16:58:52 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/night-of-a-million-lights-mon-dec-28-tickets-123252849591?aff=ebdssbdestsearch
+2020-12-28 16:58:54 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/bellingrath-gardens-and-home-magic-christmas-in-lights-2020-tickets-125059126213?aff=ebdssbdestsearch
+2020-12-28 16:58:57 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/lets-go-back-to-the-future-a-new-years-eve-celebration-tickets-131071974805?aff=ebdssbdestsearch
+2020-12-28 16:59:01 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-at-epic-loft-atlanta-tickets-128647790003?aff=ebdssbdestsearch
+2020-12-28 16:59:02 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-tickets-133240248169?aff=ebdssbdestsearch
+2020-12-28 16:59:03 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/sunsets-treehouse-miami-new-years-celebration-tickets-130815593963?aff=ebdssbdestsearch
+2020-12-28 16:59:04 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/holidays-in-your-car-ventura-tickets-125507922575?aff=ebdssbdestsearch
+2020-12-28 16:59:07 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/free-vizcaya-village-farmers-market-tickets-128927163617?aff=ebdssbdestsearch
+2020-12-28 16:59:08 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/privacy-saturdays-at-space-htx-rsvp-now-free-entry-tickets-117915304851?aff=ebdssbdestsearch
+2020-12-28 16:59:09 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/spirit-of-christmas-drive-through-light-celebration-tickets-130172779287?aff=ebdssbdestsearch
+2020-12-28 16:59:10 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/sundays-brunch-sunsets-in-enclosed-sky-suites-savanna-rooftop-tickets-112898745186?aff=ebdssbdestsearch
+2020-12-28 16:59:12 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-at-the-park-with-artbat-and-rony-seikaly-tickets-133112480011?aff=ebdssbdestsearch
+2020-12-28 16:59:13 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-w-cash-cash-thursday-december-31st-2020-district-atlanta-tickets-129476745431?aff=ebdssbdestsearch
+2020-12-28 16:59:14 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/winter-20-21-reservations-tickets-129406924595?aff=ebdssbdestsearch
+2020-12-28 16:59:19 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/the-art-of-eve-at-the-ballroom-at-bayou-place-registration-131680741643?aff=ebdssbdestsearch
+2020-12-28 16:59:19 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/rsvp-for-free-buffet-pass-5-7pm-this-friday-red-sample-band-live-730-10pm-tickets-86959784055?aff=ebdssbdestsearch
+2020-12-28 16:59:21 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/the-light-park-spring-tx-tickets-118675468521?aff=ebdssbdestsearch
+2020-12-28 16:59:23 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-2021-miami-party-fireworks-cruise-gatsbys-yacht-2021-tickets-110696849256?aff=ebdssbdestsearch
+2020-12-28 16:59:23 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/f-2020-new-years-eve-party-tickets-131080745037?aff=ebdssbdestsearch
+2020-12-28 16:59:27 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/pier-pressure-miami-fireworks-viewing-new-years-eve-yacht-party-2021-tickets-96995806067?aff=ebdssbdestsearch
+2020-12-28 16:59:28 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/vibes-on-u-brunch-day-party-tickets-111523878924?aff=ebdssbdestsearch
+2020-12-28 16:59:29 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2020-bull-run-festival-of-lights-tickets-123002861871?aff=ebdssbdestsearch
+2020-12-28 16:59:31 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/night-of-a-million-lights-wed-dec-30-tickets-123252981987?aff=ebdssbdestsearch
+2020-12-28 16:59:32 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-at-la-v-nightclub-miami-tickets-132890710693?aff=ebdssbdestsearch
+2020-12-28 16:59:36 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/epic-nye-2021-atlanta-new-years-eve-in-atlanta-tickets-126449924127?aff=ebdssbdestsearch
+2020-12-28 16:59:38 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/island-fete-miami-tickets-126561166857?aff=ebdssbdestsearch
+2020-12-28 16:59:38 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/lincoln-park-zoo-free-admission-dailytimed-reservations-tickets-125751206243?aff=ebdssbdestsearch
+2020-12-28 16:59:39 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/soho-sundays-at-dec-on-dragon-tickets-122515618513?aff=ebdssbdestsearch
+2020-12-28 16:59:43 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-2021-accessgranted-v-5th-annual-nye-party-tickets-131137948133?aff=ebdssbdestsearch
+2020-12-28 16:59:44 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/miami-under-the-fireworks-yacht-party-new-years-eve-2021-tickets-110707324588?aff=ebdssbdestsearch
+2020-12-28 16:59:46 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-live-new-years-eve-atlanta-tickets-131706789553?aff=ebdssbdestsearch
+2020-12-28 16:59:47 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/newport-beach-holiday-lights-cruises-2020-tickets-tickets-49198097835?aff=ebdssbdestsearch
+2020-12-28 16:59:48 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/moneybagg-yo-ari-nye-celebration-2021-tickets-132757004775?aff=ebdssbdestsearch
+2020-12-28 16:59:55 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-belvedere-black-tie-event-thursday-dec-31st-tickets-131978087011?aff=ebdssbdestsearch
+2020-12-28 16:59:56 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-2021rico-act-iris-annual-nye-experience-th-tickets-124026989063?aff=ebdssbdestsearch
+2020-12-28 16:59:56 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/saturdays-bar-2200-food-hookah-happy-hour-free-entry-open-3pm-2am-tickets-79968864025?aff=ebdssbdestsearch
+2020-12-28 17:00:03 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/6th-annual-triple-crown-nye-2021-the-aloft-hotel-downtown-dallas-tickets-125528239343?aff=ebdssbdestsearch
+2020-12-28 17:00:04 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/midnight-at-9-fireworks-a-walk-through-symphony-of-lights-tickets-127645538241?aff=ebdssbdestsearch
+2020-12-28 17:00:05 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/tipsy-nye-tickets-127711820493?aff=ebdssbdestsearch
+2020-12-28 17:00:05 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/orlando-new-years-eve-2021-the-masquerade-maskuerade-tickets-129897088689?aff=ebdssbdestsearch
+2020-12-28 17:00:07 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/polo-g-tickets-124199561231?aff=ebdssbdestsearch
+2020-12-28 17:00:12 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/11th-annual-dallas-nye-ball-tickets-128590498643?aff=ebdssbdestsearch
+2020-12-28 17:00:13 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-gala-2021-houston-tx-tickets-112385132958?aff=ebdssbdestsearch
+2020-12-28 17:00:17 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/apres-2020-nye-at-virgin-hotels-dallas-tickets-131284963861?aff=ebdssbdestsearch
+2020-12-28 17:00:18 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/winter-wave-festival-tickets-130531042863?aff=ebdssbdestsearch
+2020-12-28 17:00:20 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/henny-hangover-new-years-day-brunch-tickets-132191268643?aff=ebdssbdestsearch
+2020-12-28 17:00:22 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/tech-career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-63049080497?aff=ebdssbdestsearch
+2020-12-28 17:00:22 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/night-of-a-million-lights-sat-jan-02-tickets-123253274863?aff=ebdssbdestsearch
+2020-12-28 17:00:26 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/the-estate-florida-midnight-masquerade-tickets-127640649619?aff=ebdssbdestsearch
+2020-12-28 17:00:28 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/5th-annual-art-of-celebration-nye-2021-tickets-128027127585?aff=ebdssbdestsearch
+2020-12-28 17:00:30 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-ball-drop-tickets-125793605059?aff=ebdssbdestsearch
+2020-12-28 17:00:32 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/the-greatest-nye-party-powered-by-moet-rsvp-now-free-entry-till-10pm-tickets-130979391887?aff=ebdssbdestsearch
+2020-12-28 17:00:35 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/jacksons-bistro-fire-ice-new-years-eve-2021-celebration-tickets-130282090239?aff=ebdssbdestsearch
+2020-12-28 17:00:36 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/fantasy-of-lights-drive-thru-2020-tickets-127073743989?aff=ebdssbdestsearch
+2020-12-28 17:00:38 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/taco-tuesdays-to-go-unlimited-tacos-margaritas-tickets-91226489887?aff=ebdssbdestsearch
+2020-12-28 17:00:39 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/vizcaya-late-neon-tickets-130287873537?aff=ebdssbdestsearch
+2020-12-28 17:00:40 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/juschill-the-friday-happy-hour-dinner-party-tickets-109861843732?aff=ebdssbdestsearch
+2020-12-28 17:00:44 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/midnight-at-8-fireworks-a-walk-through-symphony-of-lights-tickets-127644579373?aff=ebdssbdestsearch
+2020-12-28 17:00:45 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/ryan-upchurch-said-fck-it-tour-tickets-128929241833?aff=ebdssbdestsearch
+2020-12-28 17:00:46 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2020-2021-new-years-eve-las-vegas-fremont-street-party-tickets-90892416665?aff=ebdssbdestsearch
+2020-12-28 17:00:47 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-2021-one-legendary-party-six-different-locations-tickets-131513170433?aff=ebdssbdestsearch
+2020-12-28 17:00:49 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/the-ultimate-grown-sexy-maskerade-nye-party-2021-tickets-126651444881?aff=ebdssbdestsearch
+2020-12-28 17:00:52 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2020-meadowlarks-winter-walk-of-lights-tickets-123058389957?aff=ebdssbdestsearch
+2020-12-28 17:00:55 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/worldwide-new-years-eve-2021-tickets-131309888411?aff=ebdssbdestsearch
+2020-12-28 17:00:56 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/night-of-a-million-lights-sun-jan-03-tickets-123253040161?aff=ebdssbdestsearch
+2020-12-28 17:00:58 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/dnvrmx-new-years-weekend-2021-nuclear-neon-tickets-130600285971?aff=ebdssbdestsearch
+2020-12-28 17:01:00 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-riverfront-concert-fireworks-at-armature-works-tickets-130500232709?aff=ebdssbdestsearch
+2020-12-28 17:01:03 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/all-black-affair-saturday-january-16th-spire-tickets-132140891965?aff=ebdssbdestsearch
+2020-12-28 17:01:06 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/entradas-new-years-eve-miami-party-cruise-all-you-can-eatdrink-131624236635?aff=ebdssbdestsearch&keep_tld=1
+2020-12-28 17:01:07 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-at-jouvay-nightclub-tickets-76698171295?aff=ebdssbdestsearch
+2020-12-28 17:01:10 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-2021-hosted-by-jayda-wayda-surprise-guest-opium-december-31-2020-tickets-131313290587?aff=ebdssbdestsearch
+2020-12-28 17:01:11 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-houston-at-space-htx-rsvp-now-free-entry-til-11pm-beat-the-clock-nye-tickets-128702920901?aff=ebdssbdestsearch
+2020-12-28 17:01:13 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/thursday-rb-vibez-bar-2200-playing-the-best-of-rb-music-free-entry-tickets-79789589811?aff=ebdssbdestsearch
+2020-12-28 17:01:14 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-tickets-132447517089?aff=ebdssbdestsearch
+2020-12-28 17:01:18 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nights-of-lights-tickets-127343855901?aff=ebdssbdestsearch
+2020-12-28 17:01:22 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/missed-holidays-2020-nye-2021-tampa-tickets-130634526385?aff=ebdssbdestsearch
+2020-12-28 17:01:24 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/midnight-at-7-fireworks-a-walk-through-symphony-of-lights-tickets-127644392815?aff=ebdssbdestsearch
+2020-12-28 17:01:26 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/zoolights-presented-by-comed-and-invesco-qqq-at-lincoln-park-zoo-tickets-120084852025?aff=ebdssbdestsearch
+2020-12-28 17:01:27 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/saturdays-brunch-evenings-winter-wonderland-glasshouses-pier-15-tickets-130331245263?aff=ebdssbdestsearch
+2020-12-28 17:01:30 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/new-years-eve-beach-bash-tickets-125926324025?aff=ebdssbdestsearch
+2020-12-28 17:01:32 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/gatsbys-penthouse-atlanta-new-years-eve-party-2021-tickets-97870500301?aff=ebdssbdestsearch
+2020-12-28 17:01:34 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/sandz-caribbean-music-festival-tickets-130174376063?aff=ebdssbdestsearch
+2020-12-28 17:01:35 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/enchanted-2021-new-years-day-tickets-130970370905?aff=ebdssbdestsearch
+2020-12-28 17:01:39 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2021-denver-new-years-eve-nye-bar-crawl-tickets-106124798128?aff=ebdssbdestsearch
+2020-12-28 17:01:41 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/lights-under-louisville-standard-vehicle-incl-minivans-large-suv-tickets-128524597531?aff=ebdssbdestsearch
+2020-12-28 17:01:42 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2021-chicago-new-years-eve-nye-bar-crawl-tickets-105511325214?aff=ebdssbdestsearch
+2020-12-28 17:01:44 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nye-countdown-tickets-129002328437?aff=ebdssbdestsearch
+2020-12-28 17:01:49 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/met-saturdays-every-saturday-at-opera-tickets-88565942117?aff=ebdssbdestsearch
+2020-12-28 17:01:49 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/bayport-credit-union-holiday-lights-at-the-beach-tickets-133502566771?aff=ebdssbdestsearch
+2020-12-28 17:01:50 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/nyc-meets-atl-day-party-new-years-eve-weekend-tickets-59712234902?aff=ebdssbdestsearch
+2020-12-28 17:01:56 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2021-dallas-new-years-eve-nye-bar-crawl-tickets-107076203808?aff=ebdssbdestsearch
+2020-12-28 17:01:56 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/fantasy-fridays-traffik-tickets-116673689145?aff=ebdssbdestsearch
+2020-12-28 17:02:04 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/bassrush-new-years-eve-tickets-133781807989?aff=ebdssbdestsearch
+2020-12-28 17:02:05 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/2021-chicago-new-years-eve-nye-yacht-party-tickets-105375667458?aff=ebdssbdestsearch
+2020-12-28 17:02:14 [EventBrite] WARNING: Parse function called on https://www.eventbrite.com/e/trap-vs-rb-club-traffik-tickets-115577717063?aff=ebdssbdestsearch
